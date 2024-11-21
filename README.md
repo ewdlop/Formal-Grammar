@@ -2,6 +2,10 @@
 
 https://en.wikipedia.org/wiki/Stochastic_grammar
 
+https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar
+
+
+
 ## Normal Forms
 
 https://en.wikipedia.org/wiki/Normal_form_(abstract_rewriting)
