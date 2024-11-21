@@ -1,5 +1,7 @@
 # Formal-Grammar
 
+https://en.wikipedia.org/wiki/Stochastic_grammar
+
 ## Normal Forms
 
 https://en.wikipedia.org/wiki/Normal_form_(abstract_rewriting)
@@ -19,4 +21,3 @@ https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
 https://en.wikipedia.org/wiki/Canonical_normal_form
 
 https://en.wikipedia.org/wiki/Jordan_normal_form
-
