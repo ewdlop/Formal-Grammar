@@ -25,3 +25,11 @@ https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
 https://en.wikipedia.org/wiki/Canonical_normal_form
 
 https://en.wikipedia.org/wiki/Jordan_normal_form
+
+# Normal Forms
+
+- NNF: The negation is pushed to the literals.
+- CNF: The formula is a conjunction of disjunctions.
+- DNF: The formula is a disjunction of conjunctions.
+- ANF: The boolean function is expressed as a polynomial.
+- BCF: The formula is a disjunction of prime implicants.
